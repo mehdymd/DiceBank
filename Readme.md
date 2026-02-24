@@ -130,4 +130,4 @@ MIT License
 
 ---
 
-**Created by [Slatyy26](https://github.com/Slatyy26)**
+**Created by [mehdymd](https://github.com/mehdymd) and [saymenhdg](https://github.com/saymenhdg)**
