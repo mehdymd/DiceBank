@@ -19,7 +19,7 @@ DiceBank is a modern banking API built with [FastAPI](https://fastapi.tiangolo.c
 
 - **Backend:** FastAPI (Python)
 - **Database:** SQL (e.g., SQLite, PostgreSQL)
-- **ORM:** SQLAlchemy or Tortoise ORM
+- **ORM:** SQLAlchemy 
 - **Authentication:** JWT or OAuth2
 - **Documentation:** Automatic Swagger UI (/docs)
 
@@ -50,7 +50,7 @@ DiceBank is a modern banking API built with [FastAPI](https://fastapi.tiangolo.c
 uvicorn main:app --reload
 ```
 
-- Access interactive API docs at: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
 
 ---
 
